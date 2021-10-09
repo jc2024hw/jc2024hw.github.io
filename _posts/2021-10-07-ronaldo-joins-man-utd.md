@@ -6,4 +6,7 @@ date: 2021-10-07
 
 # Ronaldo has signed a deal to come back to Machester United
 
-![ronaldo](https://phantom-marca.unidadeditorial.es/8a97e31aeb194ce48fcb4d0597fadd4c/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/28/16301536456550.jpg)
+![ronaldo](https://image.api.uk1.sportal365.com/process/smp-image-api/livescore.com/14092021/1631608158339.jpg?operations=autocrop(256:256))
+
+Manchester united have just **confirmed** that Christiano Ronaldo has signed a deal to play for man untd
+  - Ronaldo is on a 2 year deal with an option to extend it
