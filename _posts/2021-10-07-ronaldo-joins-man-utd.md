@@ -10,4 +10,4 @@ date: 2021-10-07
 
 Manchester united have just **confirmed** that Christiano Ronaldo has signed a deal to play for man untd
   - Ronaldo is on a 2 year deal with an option to extend it
-  - Here is the [link] to the official websitedd confirming the deal
+  - Here is the [link](https://www.manutd.com/en/news/detail/cristiano-ronaldo-completes-transfer-to-man-utd-from-juventus) to the official websitedd confirming the deal
